@@ -19,6 +19,3 @@ setup(
     version='0.0.1',
     url='https://github.com/alfredodeza/python-cli-example',
 )
-
-#test action on commit/push
-print("hello there")
